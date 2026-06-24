@@ -1,4 +1,5 @@
 CodeAlpha Internship Tasks Submission
+
 👨‍💻 Candidate: KYLAASH G
 
 
@@ -7,8 +8,11 @@ All projects are fully functional and deployed using Cloudflare Pages.
 
 
 🚀 Task 3 – Bus Pass / Online Ticket Booking System
+
 🔗 GitHub Repo: https://github.com/Kylaash-G/kylaash-ticket-system
+
 🌐 Live Demo: https://kylaash-ticket-system.pages.dev/
+
 📄 Description:
 A modern and interactive online ticket booking system with predefined locations and pricing.
 Users can select routes, view ticket details, and book tickets instantly.
@@ -16,8 +20,11 @@ The system ensures better user experience with a colorful UI, structured data ha
 
 
 🚀 Task 4 – Chatbot System
+
 🔗 GitHub Repo: https://github.com/Kylaash-G/kylaash-chatbot
+
 🌐 Live Demo: https://kylaash-chatbot.pages.dev/
+
 📄 Description:
 A stylish and responsive AI-based chatbot with predefined conversational logic.
 The chatbot provides instant responses to common queries and enhances user engagement through a modern UI and smooth interaction design.
